@@ -1,0 +1,221 @@
+.fieldDisplayTable_main_container {
+    margin-top: 10px;
+    width: 43%;
+    min-height: 500px;
+    border: 1px dashed rgba(53, 78, 112, 0.2);
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.fieldDisplayTable_header {
+    padding: 15px;
+    margin: 0 0 5px 0;
+    background: #ffffff;
+    border: 1px dashed rgba(53, 78, 112, 0.2);
+    border-radius: 6px;
+
+    &:hover {
+        border-color: #4B46DD;
+    }
+
+}
+
+.FieldDisplayTable_fields {
+    border: 1px solid transparent;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 3px;
+    cursor: pointer;
+
+    &:hover {
+        border-color: #DAE3ED;
+
+    }
+
+    &:focus-within {
+        background: #f8fafc;
+        border-color: #DAE3ED;
+        /* Optional: Add a border to indicate focus */
+        outline: none;
+        /* Optional: Remove default browser outline */
+    }
+}
+
+.fieldDisplayTable_field {
+    min-height: 100px;
+    border-radius: 3px;
+    padding: 15px;
+}
+
+.fieldDisplayTable_field_label {
+    color: #4B46DD;
+    font-weight: 500;
+    display: block;
+    min-height: 18px;
+    line-height: 18px;
+    margin-bottom: 10px;
+
+}
+
+.fieldDisplayTable_field_label_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fieldDisplayTable_field_label_wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.fieldDisplayTable_required {
+    color: #FF0000;
+    font-weight: 500;
+    margin-left: 4px;
+    padding-bottom: 10px;
+}
+
+.fieldDisplayTable_remove_warning_container {
+    position: absolute;
+    top: 50%;
+    /* Center vertically */
+    left: 50%;
+    /* Center horizontally */
+    transform: translate(-50%, -50%);
+    /* Center the box */
+    background: #fff4f4;
+    border: 1px solid #de1717;
+    z-index: 99;
+    color: #de1717;
+    width: 250px;
+    border-radius: 3px;
+    padding: 16px 12px;
+    text-align: center;
+    /* Center text inside */
+    cursor: context-menu;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fieldDisplayTable_warning {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 90%;
+}
+
+.fieldDisplayTable_remove_warning_no_button {
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin: 5px;
+    width: 18px;
+    border-radius: 4px;
+    margin-right: 10px;
+    transition: opacity 0.3s ease;
+}
+
+.fieldDisplayTable_remove_warning_yes_button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin: 6px;
+    width: 18px;
+    border-radius: 4px;
+
+    transition: opacity 0.3s ease;
+
+    right: 75px;
+    bottom: 8px;
+}
+
+.fieldDisplayTable_remove_warning_button {
+    display: flex;
+    justify-content: center;
+}
+
+.fieldDisplayTable_remove_icon {
+    visibility: hidden;
+    background: #f0f0f1;
+    color: #7e9dbd;
+    padding: 1.5px;
+    border-radius: 2px;
+    width: 9px;
+    background: rgb(252, 252, 252);
+}
+
+.FieldDisplayTable_fields:hover .fieldDisplayTable_remove_icon {
+    visibility: visible;
+}
+
+
+.fieldDisplayTable_input_checkbox {
+    margin-bottom: 9px;
+}
+
+.fieldDisplayTable_input {
+    border: 1px solid rgba(39, 39, 50, 0.25);
+    box-shadow: none !important;
+    height: 40px;
+    width: 100% !important;
+    min-width: 100% ;
+    line-height: 40px;
+    border-radius: 3px;
+
+
+
+    &:focus {
+        border: 1px solid #2271b1;
+        /* Change border color to indicate focus */
+        box-shadow: none !important;
+        outline: none;
+        /* Optional: Remove default browser outline */
+    }
+}
+
+.fieldDisplayTable_header {
+    position: relative;
+}
+
+.fieldDisplayTable_topright_warning {
+    position: absolute;
+    top: 4px;
+    right: 14px;
+    background: #fffbe6;
+    color: #b36b00;
+    border: 1px solid #ffe58f;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 13px;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.fieldDisplayTable_topright_warning {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: #fffbe6;
+    color: #b36b00;
+    border: 1px solid #ffe58f;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 13px;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.fieldDisplayTable_topright_warning.fadeOut {
+    opacity: 0;
+}

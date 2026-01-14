@@ -1,0 +1,71 @@
+.TabFields_main_container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
+    padding: 3%;
+
+}
+
+.tabFields_icons_container {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgba(53, 78, 112, 0.12);
+    border-radius: 3px;
+    background: #fff;
+    height: 46px;
+    padding: 0px 15px;
+}
+
+.tabFields_icons_title {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    z-index: 999;
+}
+
+.tabFields_icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.tabFields_title {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.tabFields_number_container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+
+    & img {
+        border-radius: 15px;
+        width: 38vw;
+        max-height: 170px;
+        max-width: 555px;
+
+
+    }
+
+}
+
+.tabFields_number_title {
+   position: absolute;
+    width: 35vw;
+    max-width: 506px;
+    color: #181154;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 700;
+}
+.tabFields_number_description{
+    position: absolute;
+    margin-top: 71px;
+    width: 35vw;
+    font-size: 15px;
+    font-weight: 400;
+    max-width: 506px;
+}

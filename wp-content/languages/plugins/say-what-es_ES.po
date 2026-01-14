@@ -1,0 +1,177 @@
+# Translation of Plugins - Say what? - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Say what? - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-26 12:50:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Say what? - Stable (latest release)\n"
+
+#: html/say-what-admin-list.php:84
+msgid "Terms apply"
+msgstr "Se aplican términos"
+
+#: html/say-what-admin-list.php:36
+msgid "Save time - go Pro today!"
+msgstr "¡Ahorra tiempo: conviértete en profesional hoy mismo!"
+
+#: html/say-what-admin-list.php:33
+msgid "Save time - Upgrade to Pro today"
+msgstr "Ahorra tiempo: actualizate a Pro hoy"
+
+#: html/say-what-admin-list.php:89
+msgid "Go Pro now &raquo;"
+msgstr "Hazte Pro ahora &raquo;"
+
+#. Translators: %1$s / 2 are opening / closing <em> tag, %3%s is <code>, %4$s
+#. is a discount code, and %5$s is </code>.
+#: html/say-what-admin-list.php:78
+msgid "Upgrade to the Pro version today, and %1$ssave 15&#37;%2$s with the code %3$s%4$s%5$s at checkout."
+msgstr "Actualiza a la versión Pro hoy y  %1$sahorra 15&#37;%2$s con el código %3$s%4$s%5$s al finalizar la compra."
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:71
+msgid "%1$sImproved performance%2$s using text-domain-specific filters."
+msgstr "%1$sRendimiento mejorado%2$s mediante el uso de filtros específicos del dominio de texto."
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:66
+msgid "%1$sImport &amp; export%2$s your strings between sites."
+msgstr "%1$sImporta y exporta%2$s tus cadenas entre sitios."
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:60
+msgid "%1$sMulti-lingual support%2$s - set different replacements for different languages."
+msgstr "%1$sSoporte multilingüe%2$s: establece diferentes reemplazos para diferentes idiomas."
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:54
+msgid "%1$sWildcard string replacements%2$s - replace individual words, or fragments across your whole site."
+msgstr "%1$sReemplazos de cadenas comodín%2$s: reemplaza palabras individuales o fragmentos en todo tu sitio."
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:47
+msgid "%1$sString Discovery%2$s and autocomplete - find the strings you need without diving through code. Works with server-side and Javascript-rendered strings."
+msgstr "%1$sDescubrimiento de cadenas%2$s y autocompletado: encuentra las cadenas que necesitas sin tener que revisar el código. Funciona con cadenas del lado del servidor y generadas con Javascript."
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:41
+msgid "%1$sSay What? Pro%2$s makes it even easier for you to change strings:"
+msgstr "%1$s¿Qué dices? Pro%2$s te facilita aún más cambiar cadenas:"
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-list.php:27
+msgid "As a business, we already donate a percentage of our profits from premium plugins to global climate change projects. You're free to use package free of charge, but if you do, please consider %1$sbuying the world some trees%2$s in return. You’ll be creating employment for local families and restoring wildlife habitats."
+msgstr "Como empresa, ya donamos un porcentaje de las ganancias de nuestros plugins premium a proyectos globales contra el cambio climático. Puedes usar el paquete gratis, pero si lo haces, considera %1$s comprarle algunos árboles al mundo%2$s a cambio. Estarás creando empleo para familias locales y restaurando hábitats de vida silvestre."
+
+#: html/say-what-admin-list.php:22
+msgid "Support this free plugin by planting trees"
+msgstr "Apoya este plugin gratuito plantando árboles"
+
+#: html/say-what-admin-list.php:20
+msgid "Using this plugin on your live site? Please buy the world some trees..."
+msgstr "¿Usas este plugin en tu sitio? Por favor, cómprale algunos árboles al mundo..."
+
+#: html/say-what-admin-list.php:16
+msgid "We're a climate positive workforce"
+msgstr "Somos una fuerza laboral climáticamente positiva"
+
+#. Translators: %1$s is opening <a> tag, %2%s is the closing tag.
+#: html/say-what-admin-addedit.php:7
+msgid "Fill in the details of the original translatable string, the string's text domain, and the string you would like to use instead. For more information check out the %1$sgetting started guide%2$s."
+msgstr "Completa los detalles de la cadena traducible original, el dominio de texto de la cadena y la cadena que deseas usar en su lugar. Para más información, consulta la %1$sguía de introducción%2$s."
+
+#. Author of the plugin
+#: say-what.php
+msgid "Ademti Software"
+msgstr "Ademti Software"
+
+#. Author URI of the plugin
+#: say-what.php
+msgid "https://plugins.leewillis.co.uk/"
+msgstr "https://plugins.leewillis.co.uk/"
+
+#. Description of the plugin
+#: say-what.php
+msgid "An easy-to-use plugin that allows you to alter strings on your site without editing WordPress core, or plugin code"
+msgstr "Un plugin fácil de usar que te permite modificar las cadenas en tu sitio sin editar el núcleo de WordPress o el código del plugin."
+
+#. Plugin URI of the plugin
+#: say-what.php
+msgid "https://github.com/leewillis77/say-what"
+msgstr "https://github.com/leewillis77/say-what"
+
+#. Plugin Name of the plugin
+#: say-what.php
+msgid "Say What?"
+msgstr "Say What?"
+
+#: src/ListTable.php:147
+msgid "Delete"
+msgstr "Borrar"
+
+#: src/ListTable.php:134
+msgid "Edit"
+msgstr "Editar"
+
+#: src/ListTable.php:19
+msgid "No string replacements configured yet."
+msgstr "Aún no hay configurado ningún reemplazo de cadenas."
+
+#: src/Admin.php:145 src/Admin.php:166 src/Admin.php:187 src/Admin.php:260
+msgid "Did you really mean to do that? Please go back and try again."
+msgstr "¿Realmente quieres hacer eso? Por favor, vuelve atrás e inténtalo de nuevo."
+
+#: src/Admin.php:64
+msgid "Settings"
+msgstr "Ajustes"
+
+#: html/say-what-admin-list.php:4
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: html/say-what-admin-delete.php:10
+msgid "No"
+msgstr "No"
+
+#: html/say-what-admin-delete.php:10
+msgid "Yes"
+msgstr "Sí"
+
+#. Translators: %s is the string for which the replacement is being deleted.
+#: html/say-what-admin-delete.php:7
+msgid "Are you sure you want to delete the replacement string for &quot;%s&quot;?"
+msgstr "¿Seguro que quieres borrar la cadena de reemplazo para «%s»?"
+
+#: html/say-what-admin-addedit.php:40
+msgid "Add"
+msgstr "Añadir"
+
+#: html/say-what-admin-addedit.php:40
+msgid "Update"
+msgstr "Actualizar "
+
+#: html/say-what-admin-addedit.php:34 src/ListTable.php:34
+msgid "Replacement string"
+msgstr "Cadena de reemplazo"
+
+#: html/say-what-admin-addedit.php:28 src/ListTable.php:33
+msgid "Text context"
+msgstr "Contexto del texto"
+
+#: html/say-what-admin-addedit.php:22 src/ListTable.php:32
+msgid "Text domain"
+msgstr "Dominio del texto"
+
+#: html/say-what-admin-addedit.php:16 src/ListTable.php:31
+msgid "Original string"
+msgstr "Cadena original"
+
+#: html/say-what-admin-addedit.php:3 html/say-what-admin-delete.php:3
+#: html/say-what-admin-list.php:3 src/Admin.php:77 src/Admin.php:78
+msgid "Text changes"
+msgstr "Cambios del texto"

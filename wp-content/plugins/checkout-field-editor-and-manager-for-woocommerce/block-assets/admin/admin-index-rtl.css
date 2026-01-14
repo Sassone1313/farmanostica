@@ -1,0 +1,1033 @@
+/*!***************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/index.scss ***!
+  \***************************************************************************************************************************************/
+.aco-admin-container {
+  background: #f2f7fa;
+  border-radius: 8px;
+  max-width: 1200px;
+  padding-left: 10px;
+}
+.aco-admin-container h1 {
+  font-size: 2rem;
+  margin-bottom: 24px;
+  color: #333;
+}
+
+body {
+  background-color: #f2f7fa;
+}
+
+.aco-header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.aco-header-button-container {
+  margin-top: 10px;
+}
+
+.aco-svg-button {
+  border: 1px solid #8b92a5;
+  padding: 12px 11px 4px 11px;
+  border-radius: 3px;
+  position: relative;
+  top: 5px;
+  cursor: not-allowed;
+}
+.aco-svg-button img {
+  width: 20px;
+  height: 20px;
+  color: #8b92a5;
+}
+.aco-svg-button:hover {
+  background: #f0f0f1;
+}
+
+.aco-save-changes-button {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  background: #ec6762;
+}
+.aco-save-changes-button:hover {
+  background: rgba(236, 103, 98, 0.8196078431);
+}
+
+.aco-save-changes-button.loading {
+  padding-left: 40px;
+  position: relative;
+  background-color: #ec6762; /* optional */
+}
+
+.aco-save-changes-button.loading::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-right-color: #fff;
+  border-top-color: #fff;
+  animation: spin 0.6s linear infinite, grow 0.3s forwards ease-out;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+@keyframes grow {
+  to {
+    width: 14px;
+    height: 14px;
+    margin-top: -8px;
+    left: 13px;
+  }
+}
+.notification_block {
+  color: red;
+  font-size: 500;
+  /* font-weight: 500; */
+  text-align: center;
+  margin-top: 9px;
+}
+
+.aco-reset-button {
+  display: inline-block;
+  line-height: 33px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #8b92a5;
+  font-size: 12px;
+  background: transparent;
+  text-align: center;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  border: 1px solid #8b92a5;
+  margin: 0px 10px;
+}
+.aco-reset-button:hover {
+  background: #0f0f0f;
+  color: #f8f8f8;
+}
+
+.aco-field-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 12px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.aco-field-item p {
+  margin: 0;
+  flex-grow: 1;
+  font-size: 1rem;
+  color: #555;
+}
+.aco-field-item button {
+  color: #d32f2f;
+}
+
+.aco-new-field-form {
+  margin-top: 32px;
+  padding: 16px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.aco-new-field-form h2 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+  color: #333;
+}
+.aco-new-field-form .MuiTextField-root,
+.aco-new-field-form .MuiSelect-root {
+  margin-left: 16px;
+  margin-top: 8px;
+}
+.aco-new-field-form button {
+  margin-top: 8px;
+  background-color: #1976d2;
+  color: #fff;
+}
+.aco-new-field-form button:hover {
+  background-color: #115293;
+}
+/*!***********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/BlockTabs/blockTabs.module.scss ***!
+  \***********************************************************************************************************************************************************************/
+.blockTabs-module__navbar--MSN9k {
+  margin-top: 20px;
+  display: flex;
+  border-bottom: 1px solid rgba(176, 187, 200, 0.35);
+  text-decoration: none;
+  gap: 10px;
+}
+.blockTabs-module__navbar--MSN9k :focus {
+  outline: none;
+}
+.blockTabs-module__navbar--MSN9k .blockTabs-module__navlink--xekLG {
+  color: #868887;
+  text-decoration: none;
+  font-size: 13px;
+  padding: 0px 9px;
+  text-align: center;
+  padding-bottom: 5px;
+  box-shadow: none;
+}
+.blockTabs-module__navbar--MSN9k .blockTabs-module__active--hvVoN {
+  border-bottom: 1px solid #191919;
+  color: #292929;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 13px;
+  padding: 0px 8px;
+  text-align: center;
+  padding-bottom: 5px;
+  box-shadow: none;
+}
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/FieldDisplayTable/fieldDisplayTable.module.scss ***!
+  \***************************************************************************************************************************************************************************************/
+.fieldDisplayTable-module__fieldDisplayTable_main_container--ftbFS {
+  margin-top: 10px;
+  width: 43%;
+  min-height: 500px;
+  border: 1px dashed rgba(53, 78, 112, 0.2);
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_header--WQjCP {
+  padding: 15px;
+  margin: 0 0 5px 0;
+  background: #ffffff;
+  border: 1px dashed rgba(53, 78, 112, 0.2);
+  border-radius: 6px;
+}
+.fieldDisplayTable-module__fieldDisplayTable_header--WQjCP:hover {
+  border-color: #4B46DD;
+}
+
+.fieldDisplayTable-module__FieldDisplayTable_fields--UDsxK {
+  border: 1px solid transparent;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.fieldDisplayTable-module__FieldDisplayTable_fields--UDsxK:hover {
+  border-color: #DAE3ED;
+}
+.fieldDisplayTable-module__FieldDisplayTable_fields--UDsxK:focus-within {
+  background: #f8fafc;
+  border-color: #DAE3ED;
+  /* Optional: Add a border to indicate focus */
+  outline: none;
+  /* Optional: Remove default browser outline */
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_field--aORra {
+  min-height: 100px;
+  border-radius: 3px;
+  padding: 15px;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_field_label--AlTuI {
+  color: #4B46DD;
+  font-weight: 500;
+  display: block;
+  min-height: 18px;
+  line-height: 18px;
+  margin-bottom: 10px;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_field_label_container--XBX_s {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_field_label_wrapper--lpU6_ {
+  display: flex;
+  align-items: center;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_required--HuGBD {
+  color: #FF0000;
+  font-weight: 500;
+  margin-right: 4px;
+  padding-bottom: 10px;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_remove_warning_container--wpZaG {
+  position: absolute;
+  top: 50%;
+  /* Center vertically */
+  right: 50%;
+  /* Center horizontally */
+  transform: translate(50%, -50%);
+  /* Center the box */
+  background: #fff4f4;
+  border: 1px solid #de1717;
+  z-index: 99;
+  color: #de1717;
+  width: 250px;
+  border-radius: 3px;
+  padding: 16px 12px;
+  text-align: center;
+  /* Center text inside */
+  cursor: context-menu;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_warning--fpM2R {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 90%;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_remove_warning_no_button--HwZnv {
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  margin: 5px;
+  width: 18px;
+  border-radius: 4px;
+  margin-left: 10px;
+  transition: opacity 0.3s ease;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_remove_warning_yes_button--sIQ8X {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin: 6px;
+  width: 18px;
+  border-radius: 4px;
+  transition: opacity 0.3s ease;
+  left: 75px;
+  bottom: 8px;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_remove_warning_button--iHsNi {
+  display: flex;
+  justify-content: center;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_remove_icon--kFTwo {
+  visibility: hidden;
+  background: #f0f0f1;
+  color: #7e9dbd;
+  padding: 1.5px;
+  border-radius: 2px;
+  width: 9px;
+  background: rgb(252, 252, 252);
+}
+
+.fieldDisplayTable-module__FieldDisplayTable_fields--UDsxK:hover .fieldDisplayTable-module__fieldDisplayTable_remove_icon--kFTwo {
+  visibility: visible;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_input_checkbox--dcG4A {
+  margin-bottom: 9px;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_input--AfwXG {
+  border: 1px solid rgba(39, 39, 50, 0.25);
+  box-shadow: none !important;
+  height: 40px;
+  width: 100% !important;
+  min-width: 100%;
+  line-height: 40px;
+  border-radius: 3px;
+}
+.fieldDisplayTable-module__fieldDisplayTable_input--AfwXG:focus {
+  border: 1px solid #2271b1;
+  /* Change border color to indicate focus */
+  box-shadow: none !important;
+  outline: none;
+  /* Optional: Remove default browser outline */
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_header--WQjCP {
+  position: relative;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_topright_warning--ipkyI {
+  position: absolute;
+  top: 4px;
+  left: 14px;
+  background: #fffbe6;
+  color: #b36b00;
+  border: 1px solid #ffe58f;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-size: 13px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_topright_warning--ipkyI {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: #fffbe6;
+  color: #b36b00;
+  border: 1px solid #ffe58f;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-size: 13px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.fieldDisplayTable-module__fieldDisplayTable_topright_warning--ipkyI.fieldDisplayTable-module__fadeOut--gZKe6 {
+  opacity: 0;
+}
+/*!***********************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/FieldsAndOptionsTable/fieldsAndOptionsTable.module.scss ***!
+  \***********************************************************************************************************************************************************************************************/
+.fieldsAndOptionsTable-module__fieldsAndOptionsTable_main_container--Ch3Zl {
+  margin-top: 10px;
+  margin-right: 20px;
+  width: 50%;
+  min-height: 100%;
+  border-bottom: 1px solid rgba(53, 78, 112, 0.1);
+  box-sizing: border-box;
+  border-radius: 5px;
+  background: #ffffff;
+  position: sticky;
+  top: 50px;
+  height: 720px;
+  overflow-y: auto;
+}
+
+.fieldsAndOptionsTable-module__fieldsAndOptionsTable_header--o0g1C {
+  width: 100%;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid rgba(53, 78, 112, 0.1);
+}
+
+.fieldsAndOptionsTable-module__FieldsAndOptionsTable_title--P6esY {
+  width: 50%;
+  cursor: pointer;
+  text-align: center;
+  padding: 0px 20px;
+  margin-bottom: 0px;
+  line-height: 51px;
+  height: 51px;
+  bottom: -1px;
+}
+
+.fieldsAndOptionsTable-module__FieldsAndOptionsTable_title--P6esY.fieldsAndOptionsTable-module__active--F3MA_ {
+  border-bottom: 1px solid #1C01FF;
+  font-weight: 600;
+}
+
+/* Target vertical scrollbar */
+.fieldsAndOptionsTable-module__fieldsAndOptionsTable_main_container--Ch3Zl::-webkit-scrollbar {
+  width: 4px; /* Reduce the scrollbar width */
+}
+
+/* Scrollbar track (background of the scrollbar) */
+.fieldsAndOptionsTable-module__fieldsAndOptionsTable_main_container--Ch3Zl::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light gray background */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Scrollbar thumb (the draggable part) */
+.fieldsAndOptionsTable-module__fieldsAndOptionsTable_main_container--Ch3Zl::-webkit-scrollbar-thumb {
+  background: #888; /* Darker gray for the thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+
+/* On hover (optional, for better UX) */
+.fieldsAndOptionsTable-module__fieldsAndOptionsTable_main_container--Ch3Zl::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Darker gray when hovered */
+}
+/*!***********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/TabFields/tabFields.module.scss ***!
+  \***********************************************************************************************************************************************************************/
+.tabFields-module__TabFields_main_container--taodm {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 10px;
+  row-gap: 10px;
+  padding: 3%;
+}
+
+.tabFields-module__tabFields_icons_container--ABUhC {
+  display: flex;
+  align-items: center;
+  border: 1px solid rgba(53, 78, 112, 0.12);
+  border-radius: 3px;
+  background: #fff;
+  height: 46px;
+  padding: 0px 15px;
+}
+
+.tabFields-module__tabFields_icons_title--iq86M {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  z-index: 999;
+}
+
+.tabFields-module__tabFields_icon--QK_Sk {
+  width: 18px;
+  height: 18px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+.tabFields-module__tabFields_title--sqjMd {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.tabFields-module__tabFields_number_container--hsazp {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.tabFields-module__tabFields_number_container--hsazp img {
+  border-radius: 15px;
+  width: 38vw;
+  max-height: 170px;
+  max-width: 555px;
+}
+
+.tabFields-module__tabFields_number_title--hEhb5 {
+  position: absolute;
+  width: 35vw;
+  max-width: 506px;
+  color: #181154;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+.tabFields-module__tabFields_number_description--XIpDY {
+  position: absolute;
+  margin-top: 71px;
+  width: 35vw;
+  font-size: 15px;
+  font-weight: 400;
+  max-width: 506px;
+}
+/*!**********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/TabOptions/general.module.scss ***!
+  \**********************************************************************************************************************************************************************/
+.general-module__general_main_container--O6pyZ {
+  margin: 15px 15px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #d7dbe4;
+  border-radius: 3px;
+  color: #000;
+  font-weight: 600;
+  background: #f2f7fa;
+  box-sizing: border-box;
+  padding: 3px;
+  cursor: default !important;
+}
+
+.general-module__general_container--E4sus {
+  display: flex;
+  box-sizing: border-box;
+}
+
+.general-module__general_icon--bt1xk {
+  padding: 14px;
+}
+
+.general-module__general_title--w4PCZ {
+  font-size: 13px;
+  margin-top: 13px;
+}
+
+.general-module__general_up_down_arrow--VZ8sA {
+  padding: 15px 0px 0px 17px;
+}
+
+.general-module__general_arrow--hxvpG {
+  color: #a7abb6;
+}
+
+.general-module__general_input_container--QSWxF {
+  margin: 15px 15px;
+}
+
+.general-module__general_input_label--IEfDr {
+  font-size: 13px;
+  color: #3c434a;
+  font-weight: 600;
+  margin-bottom: 5px;
+  padding-right: 2px;
+}
+
+.general-module__general_input_label--IEfDr.general-module__general_input_default_disable--mFj2r {
+  color: #a0a0a0 !important; /* Lighter gray for a disabled look */
+}
+
+.general-module__general_input--Szhxl {
+  border: 1px solid rgba(39, 39, 50, 0.25) !important;
+  box-shadow: none !important;
+  height: 40px;
+  width: 100%;
+  line-height: 40px;
+  border-radius: 3px !important;
+  width: 100%;
+  min-width: 100% !important;
+}
+.general-module__general_input--Szhxl:focus {
+  border: 1px solid #2271b1 !important;
+  box-shadow: none !important;
+}
+
+.general-module__general_input_static--Hblbm {
+  background: #f5f5f5;
+  color: #888 !important;
+  cursor: not-allowed;
+}
+
+.general-module__general_input_span--t8RcJ {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.general-module__general_toggle_container--JWiDb {
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.general-module__general_option_main_container--yXIzu {
+  border: 1px solid #d7dbe4;
+  padding: 8px 8px 0px 8px;
+  cursor: pointer;
+}
+
+.general-module__general_option_label_value--Wlx2V .general-module__general_option_label--zE3__ .general-module__general_option_value--mI7tz .general-module__general_input--Szhxl {
+  height: 35px;
+}
+
+.general-module__general_option_label_value--Wlx2V {
+  display: flex;
+  padding: 10px 15px;
+  border: 1px solid #e4ded7;
+  align-items: center;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.general-module__general_option_label_value--Wlx2V.general-module__general_option_label_error--Ut576 {
+  border: 1px solid #f13939;
+}
+
+.general-module__general_option_label--zE3__ {
+  width: 39%;
+  padding: 0px 5px;
+}
+
+.general-module__general_option_delete--JSt4x {
+  border: 1px solid rgba(106, 107, 124, 0.35);
+  border-radius: 3px;
+  height: 33px;
+  width: 33px;
+  margin-top: 4%;
+  margin-right: 3px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.general-module__general_option_delete_icon--Plq2_ {
+  padding: 8px 0px;
+}
+
+.general-module__general_option_add_new_container--CSOs4 {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+
+.general-module__general_option_add_new_button--SS1IU {
+  background: #1C01FF;
+  color: #ffffff;
+  line-height: 30px;
+  padding: 0 10px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 3px;
+  border: none;
+}
+
+.general-module__general_option_clear_section--Robtd {
+  margin: 0 10px;
+  color: #1c01ff;
+  cursor: pointer;
+  margin-top: 6px;
+}
+
+.general-module__general_no_fields_container--G4UfG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  color: #888;
+}
+
+.general-module__general_input_span_required--WaBVj {
+  color: #FF0000;
+  font-weight: 500;
+  margin-right: 4px;
+  padding-bottom: 10px;
+}
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/ToggleSwitch/toggleSwitch.module.scss ***!
+  \*****************************************************************************************************************************************************************************/
+.toggleSwitch-module__toggleSwitch--FCWdl {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 26px;
+}
+.toggleSwitch-module__toggleSwitch--FCWdl input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.toggleSwitch-module__slider--K4lD3 {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  border-radius: 34px;
+}
+
+.toggleSwitch-module__slider--K4lD3:before {
+  position: absolute;
+  content: "";
+  height: 20px;
+  width: 20px;
+  right: 3px;
+  bottom: 3px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .toggleSwitch-module__slider--K4lD3 {
+  background-color: #4BED90;
+}
+
+input:focus + .toggleSwitch-module__slider--K4lD3 {
+  box-shadow: 0 0 1px #4BED90;
+}
+
+input:checked + .toggleSwitch-module__slider--K4lD3:before {
+  -webkit-transform: translateX(-26px);
+  -ms-transform: translateX(-26px);
+  transform: translateX(-23px);
+}
+
+input:disabled + .toggleSwitch-module__slider--K4lD3 {
+  cursor: not-allowed; /* Optional: Show "not-allowed" cursor */
+  background-color: #99edbd; /* Dim green color for disabled state */
+}
+/*!**********************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/pages/styles.scss ***!
+  \**********************************************************************************************************************************************/
+.aco-field-main-container {
+  display: flex;
+  justify-items: center;
+}
+/*!***************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/CheckoutBar/checkoutBar.module.scss ***!
+  \***************************************************************************************************************************************************************************/
+.checkoutBar-module__navbar--prSJS {
+  width: 257px;
+  margin: 5px 0px 31px 0px;
+  display: flex;
+  border-bottom: 1px solid rgba(176, 187, 200, 0.35);
+  text-decoration: none;
+  gap: 10px;
+}
+.checkoutBar-module__navbar--prSJS :focus {
+  outline: none;
+}
+.checkoutBar-module__navbar--prSJS .checkoutBar-module__navlink--kN5J_ {
+  color: #868887;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  font-size: 13px;
+  padding: 0px 9px;
+  text-align: center;
+  padding-bottom: 5px;
+  box-shadow: none;
+}
+.checkoutBar-module__navbar--prSJS .checkoutBar-module__active--O5IgR {
+  font-weight: 600;
+  border-bottom: 1px solid #191919;
+  color: #292929;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  font-size: 13px;
+  padding: 0px 8px;
+  text-align: center;
+  padding-bottom: 5px;
+  box-shadow: none;
+}
+/*!***********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/PopAlert/resetAlert.module.scss ***!
+  \***********************************************************************************************************************************************************************/
+.resetAlert-module__buttonReset--DMw6L {
+  display: inline-block;
+  line-height: 33px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #8b92a5;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  border: 1px solid #8b92a5;
+}
+.resetAlert-module__buttonReset--DMw6L:hover {
+  background: #29292A;
+  color: #fff;
+}
+
+.resetAlert-module__warp_container--Yc4aE {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 300;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.resetAlert-module__wrap--IhMUA {
+  position: fixed;
+  inset: 50% auto auto 50%;
+  border: 1px solid rgb(204, 204, 204);
+  background: rgb(255, 255, 255);
+  overflow: auto;
+  border-radius: 12px;
+  outline: none;
+  padding: 25px 45px;
+  margin-left: -50%;
+  transform: translate(50%, -50%);
+  text-align: center;
+  z-index: 1000;
+}
+
+.resetAlert-module__mPopUp--rsp8C {
+  margin-bottom: 1.5em;
+  color: #1e2327;
+}
+
+.resetAlert-module__warning_msg--_d6rf {
+  color: red;
+  margin-top: 10px;
+}
+
+.resetAlert-module__mBtn--yQ7SA {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  background: #1C01FF;
+  margin-left: 10px;
+}
+
+.resetAlert-module__buttonYes--Gwli9 {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+  background: #dc6f67;
+  text-transform: capitalize;
+}
+
+.resetAlert-module__buttonYes--Gwli9.resetAlert-module__loading--Wao7d {
+  padding-left: 40px;
+  position: relative;
+  background-color: #ec6762;
+  /* optional */
+}
+
+.resetAlert-module__buttonYes--Gwli9.resetAlert-module__loading--Wao7d::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-right-color: #fff;
+  border-top-color: #fff;
+  animation: resetAlert-module__spin--bhHGg 0.6s linear infinite, resetAlert-module__grow--AkPMT 0.3s forwards ease-out;
+}
+
+@keyframes resetAlert-module__spin--bhHGg {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+@keyframes resetAlert-module__grow--AkPMT {
+  to {
+    width: 14px;
+    height: 14px;
+    margin-top: -8px;
+    left: 13px;
+  }
+}
+.resetAlert-module__buttonNo--hLw5K {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #1e2327;
+  font-size: 12px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  background: #edeef2;
+  margin-left: 10px;
+}
+/*!************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/components/Warning/warning.scss ***!
+  \************************************************************************************************************************************************************/
+.notification_block {
+  color: #ec6762;
+  text-align: center;
+  margin-top: 9px;
+}
+/*!*******************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./admin/utils/Loading/loading.scss ***!
+  \*******************************************************************************************************************************************************/
+.loading-wrapper {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  background-color: #f2f7fa;
+  opacity: 0.8;
+  z-index: 9999;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  right: 50%;
+}
+
+.loader {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(50%, -50%);
+  animation: rotate 1s linear infinite;
+}
+
+.loader::before,
+.loader::after {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  inset: 0px;
+  border-radius: 50%;
+  border: 5px solid #019aff;
+  animation: prixClipFix 2s linear infinite;
+}
+
+.loader::after {
+  border-color: #1C01FF;
+  animation: prixClipFix 2s linear infinite, rotate 0.5s linear infinite reverse;
+  inset: 6px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+@keyframes prixClipFix {
+  0% {
+    clip-path: polygon(50% 50%, 0 0, 0 0, 0 0, 0 0, 0 0);
+  }
+  25% {
+    clip-path: polygon(50% 50%, 0 0, 100% 0, 100% 0, 100% 0, 100% 0);
+  }
+  50% {
+    clip-path: polygon(50% 50%, 0 0, 100% 0, 100% 100%, 100% 100%, 100% 100%);
+  }
+  75% {
+    clip-path: polygon(50% 50%, 0 0, 100% 0, 100% 100%, 0 100%, 0 100%);
+  }
+  100% {
+    clip-path: polygon(50% 50%, 0 0, 100% 0, 100% 100%, 0 100%, 0 0);
+  }
+}

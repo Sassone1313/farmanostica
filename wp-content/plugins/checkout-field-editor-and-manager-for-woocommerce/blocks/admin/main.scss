@@ -1,0 +1,15 @@
+@import 'variables';
+@import 'field-list';
+@import 'new-field-form';
+
+.aco-checkout-admin {
+    padding: 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 24px;
+        color: $primary-color;
+    }
+}

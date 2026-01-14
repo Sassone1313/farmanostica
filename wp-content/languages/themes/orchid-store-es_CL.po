@@ -1,0 +1,1961 @@
+# Translation of Themes - Orchid Store in Spanish (Chile)
+# This file is distributed under the same license as the Themes - Orchid Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-23 00:34:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Themes - Orchid Store\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Orchid Store is a clean, flexible, stylish & dynamic e-commerce WordPress theme. It is totally based on WooCommerce, WordPress plugin. Orchid Store can be used to build a wide range of online stores ranging from a fashion store, mobile and gadget store, furniture shop, sports shop, home décor store, jewellery store or any kind of multi-category online shop. Orchid Store has adequate built-in features that are required to build an online shop or stores. Orchid Store gives users the flexible customization experience for crafting their online shop with ease. Customization in Orchid Store is so simple that it can easily be tuned from WordPress live customizer. Orchid Store is fully widgetized where one can easily drag & drop widgets to their respective widget areas to display website sections at front-end. If you are looking to extend your online store with the page builder, you can easily do it using Elementor page builder. If you are wondering how Orchid Store looks, please do kindly visit https://themebeez.com/themes/orchid-store/ for live demo preview. Do kindly visit https://themebeez.com/docs/orchid-store-theme-documentation/ if you would need a theme setup documentation guide."
+msgstr "Orchid Store es un tema para WordPress limpio, flexible, elegante y dinámico. Está basado totalmente en el plugin WooCommerce para WordPress. Orchid Store puede ser usado para construir una amplia gama de tiendas online: tiendas de moda, móviles y gadgets, muebles, deportes, decoración para el hogar, joyería o cualquier tipo de tienda online de múltiples categorías. Orchid Store tiene integradas las características adecuadas necesarias para crear tiendas y comercios online. Orchid Store ofrece a los usuarios una experiencia de personalización flexible para crear su tienda online con facilidad. La personalización en Orchid Store es tan sencilla que puede ser fácilmente ajustada desde el personalizador de WordPress. Orchid Store está lleno de widgets que puedes arrastrar y soltar fácilmente en las correspondientes áreas de widgets para mostrar las secciones de la web en la portada. Si quieres ampliar tu tienda online con un maquetador de páginas, puedes hacerlo fácilmente usando el editor de páginas Elementor. Si te preguntas cómo se ve Orchid Store, por favor, visita https://themebeez.com/themes/orchid-store/ para ver una demostración en vivo. Visita https://themebeez.com/docs/orchid-store-theme-documentation/ si necesitas una guía sobre la documentación para la configuración del tema."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Orchid Store"
+msgstr "Orchid Store"
+
+#: inc/woocommerce-hooks.php:820
+msgid "Invalid security token"
+msgstr "Token de seguridad no válido"
+
+#: customizer/functions/customizer-fields.php:1522
+msgid "Product gallery images are displayed in the lightbox on single product pages."
+msgstr "Las imágenes de la galería de productos se muestran en la caja de luz en las páginas de productos individuales."
+
+#: customizer/functions/customizer-fields.php:1521
+msgid "Enable product gallery lightbox"
+msgstr "Activar la caja de luz de la galería de productos"
+
+#: customizer/functions/customizer-fields.php:1498
+msgid "On mouse hover adds zoom effect for the product image on single product pages. "
+msgstr "Al pasar el cursor, se agrega un efecto de zoom a la imagen del producto en páginas de productos individuales. "
+
+#: customizer/functions/customizer-fields.php:1497
+msgid "Enable product gallery zoom"
+msgstr "Activar el zoom de la galería de productos"
+
+#: customizer/functions/customizer-fields.php:1470
+msgid "Image animation for products in the catalog."
+msgstr "Animación de imágenes de productos del catálogo."
+
+#: admin/welcome-notice/class-orchid-store-theme-welcome-notice.php:175
+msgid "Notice Image"
+msgstr "Imagen de aviso"
+
+#: admin/welcome-notice/class-orchid-store-theme-welcome-notice.php:165
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#. translators: %s: theme name
+#: admin/welcome-notice/class-orchid-store-theme-welcome-notice.php:146
+msgid "Welcome to %s"
+msgstr "Te damos la bienvenida a %s"
+
+#. translators: %s: current user's display name
+#: admin/welcome-notice/class-orchid-store-theme-welcome-notice.php:137
+msgid "Hello, %s"
+msgstr "Hola %s"
+
+#. translators: 1: theme name
+#: admin/welcome-notice/class-orchid-store-theme-welcome-notice.php:155
+msgid "Thank you for choosing %1$s! To get started with %1$s, install WooCommerce and Themebeez Toolkit plugins by clicking on the button below! We hope you enjoy using %1$s."
+msgstr "¡Gracias por elegir %1$s! ¡Para empezar con %1$s instala WooCommerce y los plugins Themebeez Toolkit haciendo clic en el botón de abajo! Esperamos que disfrutes usando %1$s."
+
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:258
+msgid "Display Products Count"
+msgstr "Mostrar recuento de productos"
+
+#: functions.php:311
+msgid "User can not activate plugins."
+msgstr "El usuario no puede activar plugins."
+
+#: customizer/functions/customizer-defaults.php:134
+msgid "Copyright {copy} {year}, {site_title}. All rights reserved."
+msgstr "Copyright {copy} {year}, {site_title}. Todos los derechos reservados."
+
+#: searchform.php:23
+msgid "Type here to search"
+msgstr "Escribe aquí para buscar"
+
+#: customizer/functions/customizer-fields.php:1572
+msgid "This option works when checkout page content has checkout shortcode or classic checkout block."
+msgstr "Esta opción funciona cuando el contenido de la página de pago tiene un shortcode de pago o un bloque de pago clásico."
+
+#: customizer/functions/customizer-fields.php:1547
+msgid "This option works when cart page content has cart shortcode or classic cart block."
+msgstr "Esta opción funciona cuando el contenido de la página del carrito tiene un shortcode de carrito o un bloque de carrito clásico."
+
+#: customizer/functions/customizer-fields.php:860
+msgid "You can use {copy}, {year}, {site_title}, and {theme_author} placeholders to display copyright icon, current year, site title,and theme author respectively in the copyright text."
+msgstr "Puedes utilizar los marcadores de posición {copy}, {year}, {site_title} y {theme_author} para mostrar el ícono de copyright, el año actual, el título del sitio y el autor del tema, respectivamente, en el texto de copyright."
+
+#: customizer/functions/customizer-fields.php:779
+msgid "(In %)"
+msgstr "(En %)"
+
+#: customizer/functions/customizer-fields.php:778
+msgid "Sidebar Width"
+msgstr "Ancho de la barra lateral"
+
+#: woocommerce/checkout/form-shipping.php:58
+msgid "Additional information"
+msgstr "Información adicional"
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr "¿Enviar a otra dirección?"
+
+#: woocommerce/checkout/form-checkout.php:58
+#: woocommerce/checkout/form-checkout.php:85
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Debes estar conectado para para poder finalizar la compra."
+
+#: woocommerce/cart/cart.php:183 woocommerce/cart/cart.php:373
+msgid "Update cart"
+msgstr "Actualizar carrito"
+
+#: woocommerce/cart/cart.php:178 woocommerce/cart/cart.php:368
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+#: woocommerce/cart/cart.php:178 woocommerce/cart/cart.php:368
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: woocommerce/cart/cart.php:178 woocommerce/cart/cart.php:368
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#: woocommerce/cart/cart.php:123 woocommerce/cart/cart.php:313
+msgid "Available on backorder"
+msgstr "Disponible para reserva"
+
+#. translators: %s is the product name
+#: woocommerce/cart/cart.php:69 woocommerce/cart/cart.php:259
+msgid "Remove %s from cart"
+msgstr "Quitar %s del carrito"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:160
+#: woocommerce/cart/cart.php:226 woocommerce/cart/cart.php:350
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:134
+#: woocommerce/cart/cart.php:225 woocommerce/cart/cart.php:324
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:128
+#: woocommerce/cart/cart.php:224 woocommerce/cart/cart.php:318
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart.php:223 woocommerce/cart/cart.php:293
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:222
+msgid "Thumbnail image"
+msgstr "Miniatura"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:221
+msgid "Remove item"
+msgstr "Quitar artículo"
+
+#: customizer/functions/customizer-fields.php:1571
+msgid "Cart Layout"
+msgstr "Disposición del carrito"
+
+#: customizer/functions/customizer-fields.php:1546
+msgid "Checkout Layout"
+msgstr "Disposición de la página de pago"
+
+#: customizer/functions/customizer-fields.php:1476
+msgid "Swap"
+msgstr "Reemplazar"
+
+#: customizer/functions/customizer-fields.php:1475
+msgid "Zoom"
+msgstr "Ampliar"
+
+#: customizer/functions/customizer-fields.php:1469
+msgid "Effect on Product Image on Hover"
+msgstr "Efecto sobre la imagen del producto al pasar el ratón por encima"
+
+#: customizer/functions/customizer-fields.php:1387
+msgid "Enable Cart Messages"
+msgstr "Activar los mensajes del carrito"
+
+#: customizer/functions/customizer-fields.php:1331
+msgid "Sale Tag Text"
+msgstr "Texto de la etiqueta de oferta"
+
+#: customizer/functions/customizer-fields.php:1310
+msgid "Enable Percentage Sale Tag"
+msgstr "Activar la etiqueta de porcentaje de descuento"
+
+#: customizer/functions/customizer-fields.php:1283
+msgid "Add to Cart Button Icon Position"
+msgstr "Posición del ícono del botón agregar al carrito"
+
+#: customizer/functions/customizer-fields.php:1262
+msgid "Enable Add to Cart Button Icon"
+msgstr "Activar el ícono del botón agregar al carrito"
+
+#: customizer/functions/customizer-fields.php:1238
+msgid "Display Add to Cart Button on Product Hover"
+msgstr "Mostrar el botón agregar al carrito al pasar el ratón sobre el producto"
+
+#: customizer/functions/customizer-fields.php:1213
+msgid "Add to Cart Button Position"
+msgstr "Posición del botón agregar al carrito"
+
+#: customizer/functions/customizer-fields.php:952
+msgid "Miscellaneous"
+msgstr "Varios"
+
+#: customizer/functions/customizer-fields.php:936
+msgid "Cart Page"
+msgstr "Página de carrito"
+
+#: customizer/functions/customizer-fields.php:928
+msgid "Product Single"
+msgstr "Producto individual"
+
+#: customizer/functions/customizer-fields.php:436
+msgid "Search Form Shortcode"
+msgstr "Shortcode del formulario de búsqueda"
+
+#: customizer/functions/customizer-fields.php:428
+msgid "Third Party Search Form"
+msgstr "Formulario de búsqueda de terceros"
+
+#: customizer/functions/customizer-fields.php:395
+msgid "When enabled, page title will be displayed inside the page header. Otherwise, page title will be displayed below the page header."
+msgstr "Si está activado, el título de la página se mostrará dentro de la cabecera de la página. De lo contrario, el título de la página se mostrará debajo de la cabecera de la página."
+
+#: customizer/functions/customizer-fields.php:394
+msgid "Display Page Title"
+msgstr "Mostrar título de página"
+
+#: customizer/functions/customizer-fields.php:301
+#: customizer/functions/customizer-fields.php:312
+msgid "Container Width"
+msgstr "Ancho del contenedor"
+
+#: inc/udp/init.php:109
+msgid "Later"
+msgstr "Más tarde"
+
+#: inc/udp/init.php:107
+msgid "Do not show again"
+msgstr "No volver a mostrar"
+
+#: inc/udp/init.php:105
+msgid "Allow"
+msgstr "Permitir"
+
+#. translators: %s: agent name
+#: inc/udp/init.php:99
+msgid "%s is asking to allow tracking your non-sensitive WordPress data?"
+msgstr "%s te está solicitando que permitas hacer seguimiento de datos no sensibles de WordPress."
+
+#: inc/udp/class-udp-agent.php:159
+msgid " What data do we collect?"
+msgstr " ¿Qué datos recopilamos?"
+
+#: inc/udp/class-udp-agent.php:158
+msgid "Become a super contributor by sharing your non-sensitive WordPress data. We guarantee no sensitive data is collected."
+msgstr "Conviértete en un supercolaborador compartiendo datos no sensibles de WordPress. Te garantizamos que no se recoge información sensible."
+
+#: inc/udp/class-udp-agent.php:116
+msgid "Allow Anonymous Tracking"
+msgstr "Permitir el seguimiento anónimo"
+
+#: functions.php:325
+msgid "The plugin is activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: functions.php:316
+msgid "Invalid security token."
+msgstr "Token de seguridad no válido."
+
+#: customizer/functions/customizer-fields.php:474
+msgid "Floating Cart"
+msgstr "Carrito flotante"
+
+#: customizer/functions/customizer-fields.php:473
+msgid "Minicart"
+msgstr "Minicarrito"
+
+#: customizer/functions/customizer-fields.php:470
+msgid "Display Cart As"
+msgstr "Mostrar carrito como"
+
+#: customizer/customizer.php:203
+msgid "Activated"
+msgstr "Activado"
+
+#: customizer/customizer.php:202
+msgid "Activating..."
+msgstr "Activando..."
+
+#: customizer/customizer.php:201
+msgid "Installed"
+msgstr "Instalado"
+
+#: customizer/customizer.php:200
+msgid "Installing..."
+msgstr "Instalando..."
+
+#: customizer/controls/class-orchid-store-customize-afc-recommendation-control.php:108
+msgid "Configure Now"
+msgstr "Configurar ahora"
+
+#. translators: 1: plugin name
+#: customizer/controls/class-orchid-store-customize-afc-recommendation-control.php:102
+msgid "Floating cart&rsquo;s features can be configured from the %1$s plugin&rsquo;s setting page."
+msgstr "Las características del carrito flotante se pueden configurar en la página de ajustes de %1$s."
+
+#: customizer/controls/class-orchid-store-customize-afc-recommendation-control.php:90
+msgid "Activate Now"
+msgstr "Activar ahora"
+
+#. translators: 1: plugin name.
+#: customizer/controls/class-orchid-store-customize-afc-recommendation-control.php:84
+msgid "Please activate the %1$s plugin to enable the floating cart."
+msgstr "Por favor, activa el plugin %1$s para activar el carrito flotante."
+
+#: customizer/controls/class-orchid-store-customize-afc-recommendation-control.php:72
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#. translators: 1: plugin name.
+#: customizer/controls/class-orchid-store-customize-afc-recommendation-control.php:66
+msgid "Please install the %1$s plugin to enable the floating cart."
+msgstr "Por favor, instala el plugin %1$s para activar el carrito flotante."
+
+#: inc/woocommerce-hooks.php:588
+msgid "Compare"
+msgstr "Comparar"
+
+#: inc/woocommerce-hooks.php:467
+msgid "Add to wishlist"
+msgstr "Agregar a la lista de deseos"
+
+#: inc/woocommerce-hooks.php:467
+msgid "Already in wishlist"
+msgstr "Ya está en la lista de deseos"
+
+#: inc/woocommerce-hooks.php:429
+msgid "Quick View"
+msgstr "Vista rápida"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:466
+#: widget/widgets/class-orchid-store-products-widget.php:444
+msgid "Random"
+msgstr "Aleatorio"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:465
+#: widget/widgets/class-orchid-store-products-widget.php:443
+msgid "Menu Order"
+msgstr "Orden del menú"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:464
+#: widget/widgets/class-orchid-store-products-widget.php:442
+msgid "Date"
+msgstr "Fecha"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:463
+#: widget/widgets/class-orchid-store-products-widget.php:441
+msgid "Name"
+msgstr "Nombre"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:447
+#: widget/widgets/class-orchid-store-products-widget.php:425
+msgid "DESC"
+msgstr "DESC"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:446
+#: widget/widgets/class-orchid-store-products-widget.php:424
+msgid "ASC"
+msgstr "ASC"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:390
+#: widget/widgets/class-orchid-store-products-widget.php:343
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:376
+#: widget/widgets/class-orchid-store-products-widget.php:330
+msgid "Order"
+msgstr "Orden"
+
+#: customizer/functions/customizer-fields.php:517
+msgid "Display Wishlist Items Count"
+msgstr "Mostrar el recuento de los artículos en la lista de deseos"
+
+#: customizer/functions/customizer-fields.php:462
+msgid "Display Cart Items Count"
+msgstr "Mostrar el recuento de artículos en el carrito"
+
+#: customizer/functions/customizer-fields.php:1355
+msgid "This option adds plus and minus buttons before and after quantity field respectively."
+msgstr "Esta opción agrega los botones “más” y “menos” antes y después del campo de cantidad, respectivamente."
+
+#: customizer/functions/customizer-fields.php:1354
+msgid "Display Plus &amp; Minus Buttons"
+msgstr "Mostrar los botones “más” y “menos”"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:370
+#: widget/widgets/class-orchid-store-products-widget.php:325
+msgid "Hide Products Out of Stock"
+msgstr "Ocultar los productos sin existencias"
+
+#: customizer/functions/customizer-fields.php:278
+#: widget/widgets/class-orchid-store-products-filter-widget.php:461
+#: widget/widgets/class-orchid-store-products-widget.php:439
+msgid "ID"
+msgstr "ID"
+
+#: customizer/functions/customizer-fields.php:277
+msgid "Slug"
+msgstr "Slug"
+
+#: customizer/functions/customizer-fields.php:275
+msgid "This option lets you save value of category dropdown, page dropdown, post dropdown, etc. either as slug or id. Select ID if your site language is other than English."
+msgstr "Esta opción te permite guardar el valor del desplegable de categoría, el desplegable de página, el desplegable de entrada, etc., ya sea como slug o como ID. Selecciona el ID si el idioma de tu sitio no es el inglés."
+
+#: customizer/functions/customizer-fields.php:274
+msgid "Save Dropdown Value As"
+msgstr "Guardar el valor del desplegable como"
+
+#: customizer/functions/customizer-fields.php:66
+msgid "General"
+msgstr "General"
+
+#: customizer/functions/customizer-fields.php:827
+msgid "Display Scroll Top Button"
+msgstr "Mostrar el botón “Ir arriba”"
+
+#: customizer/functions/customizer-fields.php:1190
+msgid "Display Product Out of Stock Notice"
+msgstr "Mostrar el aviso de producto sin existencias"
+
+#: customizer/functions/customizer-fields.php:1164
+msgid "This option sets number of product columns to be displayed mobile devices."
+msgstr "Esta opción establece el número de columnas de productos a mostrar en los dispositivos móviles."
+
+#: customizer/functions/customizer-fields.php:1163
+msgid "Mobile - Product Columns"
+msgstr "Móvil - Columnas de productos"
+
+#: customizer/functions/customizer-fields.php:892
+msgid "Disable Outline On Focus"
+msgstr "Desactivar el contorno al enfocar"
+
+#: customizer/functions/customizer-fields.php:444
+msgid "Display Search Form On Mobile Devices"
+msgstr "Mostrar el formulario de búsqueda en los dispositivos móviles"
+
+#: customizer/functions/customizer-fields.php:427
+msgid "Default Search Form"
+msgstr "Formulario de búsqueda por defecto"
+
+#: customizer/functions/customizer-fields.php:426
+msgid "Product Search Form"
+msgstr "Formulario de búsqueda de productos"
+
+#: customizer/functions/customizer-fields.php:423
+msgid "Select Search Form"
+msgstr "Seleccionar el formulario de búsqueda"
+
+#: customizer/functions/customizer-fields.php:378
+msgid "Display Page Header"
+msgstr "Mostrar la cabecera de la página"
+
+#: customizer/functions/customizer-fields.php:237
+msgid "Logo - For Mobile"
+msgstr "Logotipo - Para móvil"
+
+#: customizer/functions/customizer-fields.php:192
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: customizer/functions/customizer-fields.php:108
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: customizer/functions/customizer-fields.php:997
+msgid "Product Single - Sidebar Position"
+msgstr "Producto individual - Posición de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:972
+msgid "Product Archive - Sidebar Position"
+msgstr "Archivo de productos - Posición de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:1046
+msgid "How many rows of products should be shown per page?"
+msgstr "¿Cuántas filas de productos deben mostrarse por página?"
+
+#: customizer/functions/customizer-fields.php:1045
+msgid "Rows per page"
+msgstr "Filas por página"
+
+#: widget/widgets-init.php:68
+msgid "Add woocommerce widgets here."
+msgstr "Agrega aquí los widgets de WooCommerce."
+
+#: widget/widgets-init.php:66
+msgid "Woocommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: customizer/functions/customizer-fields.php:677
+msgid "Content/Featured Image"
+msgstr "Contenido/Imagen destacada"
+
+#: customizer/functions/customizer-fields.php:676
+msgid "Featured Image/Content"
+msgstr "Imagen destacada/Contenido"
+
+#: customizer/functions/customizer-fields.php:673
+msgid "Select Post Column Alignment"
+msgstr "Seleccionar alineación de columna de la entrada"
+
+#: customizer/functions/customizer-fields.php:143
+msgid "Blog/Archive/Search Common"
+msgstr "Blog/Archivo/Búsqueda comunes"
+
+#: customizer/functions/customizer-fields.php:338
+msgid "Login/Register Link"
+msgstr "Enlace de acceso/registro"
+
+#: customizer/functions/customizer-fields.php:337 functions.php:58
+msgid "Top Header Menu"
+msgstr "Menú de la cabecera superior"
+
+#: customizer/functions/customizer-fields.php:334
+msgid "Select Top Header Left Element"
+msgstr "Seleccionar el elemento izquierdo de la cabecera superior"
+
+#: customizer/customizer.php:68
+msgid "Go Pro"
+msgstr "Ver la versión Pro"
+
+#: customizer/customizer.php:67
+msgid "Orchid Store Pro"
+msgstr "Orchid Store Pro"
+
+#: 404.php:41
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:37
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Ups! No se pudo encontrar esa página."
+
+#: 404.php:31
+msgid "0"
+msgstr "0"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en “%2$s”"
+msgstr[1] "%1$s comentarios en “%2$s”"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en “%1$s”"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:57
+msgid "Secondary Menu"
+msgstr "Menú secundario"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: searchform.php:15
+msgid "Search for:"
+msgstr "Buscar:"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/theme-functions.php:24
+msgctxt "Inter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/woocommerce-hooks.php:236
+msgid "My Wishlist"
+msgstr "Mi lista de deseos"
+
+#: inc/woocommerce-hooks.php:206
+msgid "Login / Register"
+msgstr "Acceder / Registrarse"
+
+#: inc/woocommerce-hooks.php:206
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: inc/woocommerce-hooks.php:127
+msgid "Total:"
+msgstr "Total:"
+
+#: inc/class-orchid-store-custom-fields.php:68
+msgid "Fullwidth"
+msgstr "Ancho completo"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:223
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d artículo"
+msgstr[1] "%d artículos"
+
+#: inc/woocommerce.php:219
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de compra"
+
+#. translators: %s: search query.
+#: inc/template-functions.php:308 search.php:35
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#. translators: 1: theme name, 2: theme author
+#: inc/custom-hooks.php:545
+msgid "%1$s Theme by %2$s"
+msgstr "Tema %1$s de %2$s"
+
+#: inc/custom-hooks.php:425
+msgid "Next post"
+msgstr "Entrada siguiente"
+
+#: inc/custom-hooks.php:413
+msgid "Prev post"
+msgstr "Entrada anterior"
+
+#: inc/custom-hooks.php:381
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/custom-hooks.php:380
+msgid "Previous"
+msgstr "Anterior"
+
+#: customizer/functions/customizer-defaults.php:164 functions.php:231
+#: functions.php:233
+msgid "Cart items has been updated successfully!"
+msgstr "¡Los artículos del carrito han sido actualizados correctamente!"
+
+#: customizer/functions/customizer-defaults.php:163 functions.php:226
+#: functions.php:228
+msgid "Product has been removed from your cart!"
+msgstr "¡El producto ha sido eliminado de tu carrito!"
+
+#: customizer/functions/customizer-defaults.php:162 functions.php:221
+#: functions.php:223
+msgid "Product successfully added to cart!"
+msgstr "¡El producto ha sido agregado al carrito correctamente!"
+
+#: customizer/functions/customizer-fields.php:1447
+msgid "Cart Updated"
+msgstr "El carrito ha sido actualizado"
+
+#: customizer/functions/customizer-fields.php:1427
+msgid "Product Removed From Cart"
+msgstr "El producto ha sido eliminado del carrito"
+
+#: customizer/functions/customizer-fields.php:1407
+msgid "Product Added To Cart"
+msgstr "El producto ha sido agregado al carrito"
+
+#: customizer/functions/customizer-fields.php:1366
+msgid "Cart Messages"
+msgstr "Mensaje del carrito"
+
+#: customizer/functions/customizer-fields.php:1139
+msgid "Set number of columns to be displayed in cross sell product section of product page. Maximum number of colums is 6 while minimum number of columns is 2."
+msgstr "Establece el número de columnas que se mostrarán en la sección de productos de venta cruzada de la página de productos. El número máximo de columnas es de 6, mientras que el mínimo es de 2."
+
+#: customizer/functions/customizer-fields.php:1138
+msgid "Cross Sell Product Columns"
+msgstr "Columnas para los productos de venta cruzada"
+
+#: customizer/functions/customizer-fields.php:1114
+msgid "Set number of columns to be displayed in upsell product section of product page. Maximum number of colums is 6 while minimum number of columns is 2."
+msgstr "Establece el número de columnas que se mostrarán en la sección de productos de venta dirigida de la página de productos. El número máximo de columnas es de 6, mientras que el mínimo es de 2."
+
+#: customizer/functions/customizer-fields.php:1113
+msgid "Upsell Product Columns"
+msgstr "Columnas para los productos de venta dirigida"
+
+#: customizer/functions/customizer-fields.php:1093
+msgid "Set number of products to be displayed in related product section of product page."
+msgstr "Establece el número de productos que se mostrarán en la sección de productos relacionados de la página de productos."
+
+#: customizer/functions/customizer-fields.php:1092
+msgid "No of Related Product"
+msgstr "Número de productos relacionados"
+
+#: customizer/functions/customizer-fields.php:1067
+msgid "Set number of columns to be displayed in related product section of product page. Maximum number of colums is 6 while minimum number of columns is 2."
+msgstr "Establece el número de columnas que se mostrarán en la sección de productos relacionados de la página de productos. El número máximo de columnas es de 6, mientras que el mínimo es de 2."
+
+#: customizer/functions/customizer-fields.php:1066
+msgid "Related Product Columns"
+msgstr "Columnas de productos relacionados"
+
+#: customizer/functions/customizer-fields.php:1020
+msgid "Set number of columns to be displayed in shop page for displaying products. Maximum number of colums is 6 while minimum number of columns is 2."
+msgstr "Establece el número de columnas que se mostrarán en la página de la tienda para mostrar los productos. El número máximo de columnas es de 6, mientras que el mínimo es de 2."
+
+#: customizer/functions/customizer-fields.php:1019
+msgid "Shop - Product Columns"
+msgstr "Tienda - Columnas de productos"
+
+#: customizer/functions/customizer-fields.php:912
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: customizer/functions/customizer-fields.php:904
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: customizer/functions/customizer-fields.php:879
+msgid "Excerpt is the short content of post or page."
+msgstr "El extracto es un breve resumen de la entrada o página"
+
+#: customizer/functions/customizer-fields.php:878
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: customizer/functions/customizer-fields.php:866
+msgid "Image of payment processors"
+msgstr "Imagen de los procesadores de pagos"
+
+#: customizer/functions/customizer-fields.php:859
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: 404.php:29 404.php:33 customizer/functions/customizer-fields.php:849
+msgid "4"
+msgstr "4"
+
+#: customizer/functions/customizer-fields.php:848
+msgid "3"
+msgstr "3"
+
+#: customizer/functions/customizer-fields.php:847
+#: customizer/functions/customizer-fields.php:1169
+msgid "2"
+msgstr "2"
+
+#: customizer/functions/customizer-fields.php:846
+#: customizer/functions/customizer-fields.php:1168
+msgid "1"
+msgstr "1"
+
+#: customizer/functions/customizer-fields.php:843
+msgid "Select Footer Widget Area Columns"
+msgstr "Seleccionar las columnas de área del widgets del pie de página"
+
+#: customizer/functions/customizer-fields.php:835
+msgid "Display Footer Widgets"
+msgstr "Mostrar los widgets del pie de página"
+
+#: customizer/functions/customizer-fields.php:813
+msgid "Select Global Sidebar Position"
+msgstr "Seleccionar la posición global de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:806
+msgid "On checking this option, all the page templates of your website will have same sidebar position."
+msgstr "Al marcar esta opción, todas las plantillas de páginas de tu web tendrán la misma posición de la barra lateral."
+
+#: customizer/functions/customizer-fields.php:805
+msgid "Enable Global Sidebar Position"
+msgstr "Activar la posición global de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:798
+msgid "This option lets you to display or do not display sidebar for devices with width smaller than 768px."
+msgstr "Esta opción te permite mostrar o no mostrar la barra lateral en dispositivos con una anchura inferior a 768 píxeles."
+
+#: customizer/functions/customizer-fields.php:797
+msgid "Enable Sidebar For Small Devices"
+msgstr "Activar la barra lateral en dispositivos pequeños"
+
+#: customizer/functions/customizer-fields.php:789
+msgid "Enable Sticky Sidebar"
+msgstr "Activar la barra lateral fija"
+
+#: customizer/functions/customizer-fields.php:757
+msgid "This option enables common sidebar position for all the pages."
+msgstr "Esta opción permite una posición común de la barra lateral en todas las páginas."
+
+#: customizer/functions/customizer-fields.php:748
+msgid "Display Featured image"
+msgstr "Muestra la imagen destacada"
+
+#: customizer/functions/customizer-fields.php:736
+#: customizer/functions/customizer-fields.php:764
+msgid "Select Common Sidebar Position"
+msgstr "Activar la posición común de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:729
+msgid "This option enables common sidebar position for all the posts."
+msgstr "Esta opción permite una posición común de la barra lateral en todas las entradas."
+
+#: customizer/functions/customizer-fields.php:728
+#: customizer/functions/customizer-fields.php:756
+msgid "Enable Common Sidebar Position"
+msgstr "Activar la posición común de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:720
+msgid "Display Tags"
+msgstr "Mostrar las etiquetas"
+
+#: customizer/functions/customizer-fields.php:566
+#: customizer/functions/customizer-fields.php:613
+#: customizer/functions/customizer-fields.php:659
+msgid "Select Sidebar Position"
+msgstr "Seleccionar la posición de la barra lateral"
+
+#: customizer/functions/customizer-fields.php:558
+#: customizer/functions/customizer-fields.php:605
+#: customizer/functions/customizer-fields.php:651
+#: customizer/functions/customizer-fields.php:712
+msgid "Display Author"
+msgstr "Mostrar el autor"
+
+#: customizer/functions/customizer-fields.php:539
+#: customizer/functions/customizer-fields.php:589
+#: customizer/functions/customizer-fields.php:635
+#: customizer/functions/customizer-fields.php:696
+msgid "Display Categories"
+msgstr "Mostrar las categorías"
+
+#: customizer/functions/customizer-fields.php:531
+#: customizer/functions/customizer-fields.php:581
+#: customizer/functions/customizer-fields.php:627
+#: customizer/functions/customizer-fields.php:688
+msgid "Display Featured Image"
+msgstr "Mostrar la imagen destacada"
+
+#: customizer/functions/customizer-fields.php:509
+msgid "Display Wishlist"
+msgstr "Mostrar la lista de deseos"
+
+#: customizer/functions/customizer-fields.php:454
+msgid "Display Mini Cart"
+msgstr "Mostrar el minicarrito"
+
+#: customizer/functions/customizer-fields.php:414
+msgid "Display Search Form"
+msgstr "Mostrar el formulario de búsqueda"
+
+#: customizer/functions/customizer-fields.php:402
+msgid "Enable Parallax Background Image"
+msgstr "Activar la imagen de fondo Parallax"
+
+#: customizer/functions/customizer-fields.php:386
+msgid "Display Breadcrumbs"
+msgstr "Mostrar las migas de pan"
+
+#: customizer/functions/customizer-fields.php:366
+msgid "Special Menu Title"
+msgstr "Título del menú especial"
+
+#: customizer/functions/customizer-fields.php:358
+msgid "Display Special Menu"
+msgstr "Mostrar el menú especial"
+
+#: customizer/functions/customizer-fields.php:326
+msgid "Display Top Header"
+msgstr "Mostrar la cabecera superior"
+
+#: customizer/functions/customizer-fields.php:293
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: customizer/functions/customizer-fields.php:292
+msgid "Boxed"
+msgstr "En cajas"
+
+#: customizer/functions/customizer-fields.php:289
+msgid "Select Site Layout"
+msgstr "Seleccionar el diseño del sitio"
+
+#: customizer/functions/customizer-fields.php:261
+msgid "Enable Homepage Content"
+msgstr "Activar el contenido de la página de inicio"
+
+#: customizer/functions/customizer-fields.php:214
+msgid "Mini Cart"
+msgstr "Minicarrito"
+
+#: customizer/functions/customizer-fields.php:203
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+#: customizer/functions/customizer-fields.php:185
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: customizer/functions/customizer-fields.php:178
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: customizer/functions/customizer-fields.php:171
+msgid "Footer"
+msgstr "Pie de página"
+
+#: customizer/functions/customizer-fields.php:157
+msgid "Page Single"
+msgstr "Página individual"
+
+#: customizer/functions/customizer-fields.php:150
+msgid "Post Single"
+msgstr "Entrada individual"
+
+#: customizer/functions/customizer-fields.php:136
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+#: customizer/functions/customizer-fields.php:129
+msgid "Archive Page"
+msgstr "Página de archivo"
+
+#: customizer/functions/customizer-fields.php:122
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#: customizer/functions/customizer-fields.php:115
+msgid "Page Header"
+msgstr "Cabecera de la página"
+
+#: customizer/functions/customizer-defaults.php:73
+#: customizer/functions/customizer-fields.php:101
+msgid "Special Menu"
+msgstr "Menú especial"
+
+#: customizer/functions/customizer-fields.php:94
+msgid "Middle Header"
+msgstr "Cabecera intermedia"
+
+#: customizer/functions/customizer-fields.php:87
+msgid "Top Header"
+msgstr "Cabecera superior"
+
+#: customizer/functions/customizer-fields.php:80
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: customizer/functions/customizer-fields.php:73
+msgid "Site Layout"
+msgstr "Diseño del sitio"
+
+#: customizer/functions/customizer-fields.php:35
+msgid "Colors"
+msgstr "Colores"
+
+#: customizer/functions/customizer-fields.php:29
+msgid "Pages"
+msgstr "Páginas"
+
+#: customizer/functions/customizer-fields.php:23
+msgid "Header"
+msgstr "Cabecera"
+
+#: customizer/functions/reuseable-callback.php:468
+msgid "Add Item"
+msgstr "Agregar un artículo"
+
+#: customizer/controls/class-orchid-store-customize-sortable-repeater-control.php:51
+msgid "Add"
+msgstr "Agregar"
+
+#: customizer/customizer.php:197
+msgid "Body Background"
+msgstr "Fondo del cuerpo"
+
+#: customizer/customizer.php:195 inc/class-orchid-store-custom-fields.php:38
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: customizer/customizer.php:194
+msgid "Post Metas"
+msgstr "Metas de entrada"
+
+#: customizer/customizer.php:193
+msgid "Homepage Content"
+msgstr "Contenido de la página de inicio"
+
+#: customizer/customizer.php:192
+msgid "Favicon"
+msgstr "Favicon"
+
+#: customizer/customizer.php:191
+msgid "Logo Setup"
+msgstr "Configuración del logotipo"
+
+#: customizer/customizer.php:107
+msgid "Header is used as background image for breadcrumb"
+msgstr "La cabecera se usa como imagen de fondo para las migas de pan"
+
+#: customizer/customizer.php:97 customizer/customizer.php:196
+msgid "Background"
+msgstr "Fondo"
+
+#: customizer/customizer.php:94
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:59 template-parts/content-single.php:120
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:46 template-parts/content-single.php:99
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:806
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:777
+#: third-party/class-orchid-store-breadcrumb-trail.php:1227
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:776
+#: third-party/class-orchid-store-breadcrumb-trail.php:846
+#: third-party/class-orchid-store-breadcrumb-trail.php:1225
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:775
+#: third-party/class-orchid-store-breadcrumb-trail.php:805
+#: third-party/class-orchid-store-breadcrumb-trail.php:845
+#: third-party/class-orchid-store-breadcrumb-trail.php:873
+#: third-party/class-orchid-store-breadcrumb-trail.php:1223
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:758
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "G"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:740
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:722
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "G:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: third-party/class-orchid-store-breadcrumb-trail.php:263
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: third-party/class-orchid-store-breadcrumb-trail.php:261
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: third-party/class-orchid-store-breadcrumb-trail.php:259
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the page number.
+#: third-party/class-orchid-store-breadcrumb-trail.php:257
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query.
+#: third-party/class-orchid-store-breadcrumb-trail.php:255
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:253
+msgid "Archives"
+msgstr "Archivos"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:252
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:251
+msgid "Home"
+msgstr "Inicio"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:250
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: third-party/class-orchid-store-breadcrumb-trail.php:249
+msgid "Browse:"
+msgstr "Examinar:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3638
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: third-party/class-tgm-plugin-activation.php:3636
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3635
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: third-party/class-tgm-plugin-activation.php:3633
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3630
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: third-party/class-tgm-plugin-activation.php:3628
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3627
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: third-party/class-tgm-plugin-activation.php:3625
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3621
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: third-party/class-tgm-plugin-activation.php:3619
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3616
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: third-party/class-tgm-plugin-activation.php:3270
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: third-party/class-tgm-plugin-activation.php:3046
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: third-party/class-tgm-plugin-activation.php:3020
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: third-party/class-tgm-plugin-activation.php:2914
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: third-party/class-tgm-plugin-activation.php:2912
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: third-party/class-tgm-plugin-activation.php:2871
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: third-party/class-tgm-plugin-activation.php:2869
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: third-party/class-tgm-plugin-activation.php:2838
+msgid "Activate"
+msgstr "Activar"
+
+#: third-party/class-tgm-plugin-activation.php:2835
+msgid "Update"
+msgstr "Actualizar"
+
+#: third-party/class-tgm-plugin-activation.php:2829
+msgid "Install"
+msgstr "Instalar"
+
+#: third-party/class-tgm-plugin-activation.php:2796
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2724
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2718
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2713
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: third-party/class-tgm-plugin-activation.php:2664
+msgid "Status"
+msgstr "Estado"
+
+#: third-party/class-tgm-plugin-activation.php:2663
+msgid "Version"
+msgstr "Versión"
+
+#: third-party/class-tgm-plugin-activation.php:2659
+msgid "Type"
+msgstr "Tipo"
+
+#: third-party/class-tgm-plugin-activation.php:2658
+msgid "Source"
+msgstr "Origen"
+
+#: third-party/class-tgm-plugin-activation.php:2657
+msgid "Plugin"
+msgstr "Plugin"
+
+#: third-party/class-tgm-plugin-activation.php:2643
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: third-party/class-tgm-plugin-activation.php:2620
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: third-party/class-tgm-plugin-activation.php:2608
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: third-party/class-tgm-plugin-activation.php:2600
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: third-party/class-tgm-plugin-activation.php:2592
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2510
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2506
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2502
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2498
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: third-party/class-tgm-plugin-activation.php:2452
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: third-party/class-tgm-plugin-activation.php:2443
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: third-party/class-tgm-plugin-activation.php:2440
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: third-party/class-tgm-plugin-activation.php:2437
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: third-party/class-tgm-plugin-activation.php:2431
+msgid "Active"
+msgstr "Activo"
+
+#: third-party/class-tgm-plugin-activation.php:2429
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: third-party/class-tgm-plugin-activation.php:2425
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: third-party/class-tgm-plugin-activation.php:2408
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: third-party/class-tgm-plugin-activation.php:2405
+msgid "External Source"
+msgstr "Origen externo"
+
+#: third-party/class-tgm-plugin-activation.php:2402
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: third-party/class-tgm-plugin-activation.php:2386
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: third-party/class-tgm-plugin-activation.php:2383
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: third-party/class-tgm-plugin-activation.php:2074
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: third-party/class-tgm-plugin-activation.php:1209
+#: third-party/class-tgm-plugin-activation.php:3060
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: third-party/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados en una carpeta."
+
+#: third-party/class-tgm-plugin-activation.php:1012
+#: third-party/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: third-party/class-tgm-plugin-activation.php:1012
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: third-party/class-tgm-plugin-activation.php:708
+msgid "Set the parent_slug config variable instead."
+msgstr "Establece la variable de configuración `parent_slug` en su lugar."
+
+#: third-party/class-tgm-plugin-activation.php:591
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: third-party/class-tgm-plugin-activation.php:590
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita ser actualizado para ser compatible con tu tema."
+
+#: third-party/class-tgm-plugin-activation.php:384
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: third-party/class-tgm-plugin-activation.php:383
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: third-party/class-tgm-plugin-activation.php:382
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: third-party/class-tgm-plugin-activation.php:381
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:379
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin no activado. Se necesita una versión superior de %s para este tema. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:377
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: third-party/class-tgm-plugin-activation.php:375
+#: third-party/class-tgm-plugin-activation.php:3064
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin ha sido activado correctamente:"
+msgstr[1] "Los siguientes plugins han sido activados correctamente:"
+
+#: third-party/class-tgm-plugin-activation.php:374
+#: third-party/class-tgm-plugin-activation.php:3271
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: third-party/class-tgm-plugin-activation.php:373
+#: third-party/class-tgm-plugin-activation.php:903
+#: third-party/class-tgm-plugin-activation.php:2643
+#: third-party/class-tgm-plugin-activation.php:3698
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: third-party/class-tgm-plugin-activation.php:372
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: third-party/class-tgm-plugin-activation.php:367
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: third-party/class-tgm-plugin-activation.php:362
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar los plugins"
+
+#: third-party/class-tgm-plugin-activation.php:357
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:351
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:345
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:339
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:333
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:327
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:321
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: third-party/class-tgm-plugin-activation.php:320
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: third-party/class-tgm-plugin-activation.php:319
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: third-party/class-tgm-plugin-activation.php:317
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: third-party/class-tgm-plugin-activation.php:315
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: third-party/class-tgm-plugin-activation.php:314
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#. translators: %s: number of footer widget area.
+#: widget/widgets-init.php:52
+msgid "Footer %s"
+msgstr "Pie de página %s"
+
+#: widget/widgets-init.php:31
+msgid "Frontpage Widget Area"
+msgstr "Área de widgets de la portada"
+
+#: widget/widgets-init.php:21 widget/widgets-init.php:33
+#: widget/widgets-init.php:54
+msgid "Add widgets here."
+msgstr "Agrega aquí los widgets."
+
+#: customizer/functions/customizer-fields.php:164
+#: customizer/functions/customizer-fields.php:944 widget/widgets-init.php:19
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: customizer/functions/customizer-fields.php:547
+#: customizer/functions/customizer-fields.php:597
+#: customizer/functions/customizer-fields.php:643
+#: customizer/functions/customizer-fields.php:704
+#: widget/widgets/class-orchid-store-post-widget.php:285
+msgid "Display Date"
+msgstr "Mostrar la fecha"
+
+#: widget/widgets/class-orchid-store-post-widget.php:272
+msgid "Display Post Author"
+msgstr "Mostrar el autor de la entrada"
+
+#: widget/widgets/class-orchid-store-post-widget.php:260
+msgid "Display Post Categories"
+msgstr "Mostrar las categorías de las entradas"
+
+#: widget/widgets/class-orchid-store-post-widget.php:248
+msgid "Display Post Excerpt"
+msgstr "Mostrar los extractos de las entradas"
+
+#: widget/widgets/class-orchid-store-post-widget.php:229
+msgid "No of Posts"
+msgstr "Número de entradas"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#: widget/widgets/class-orchid-store-post-widget.php:169
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: widget/widgets/class-orchid-store-post-widget.php:163
+msgid "There are no posts to display."
+msgstr "No hay entradas para mostrar."
+
+#: widget/widgets/class-orchid-store-post-widget.php:29
+msgid "Displays posts."
+msgstr "Muestra las entradas."
+
+#: widget/widgets/class-orchid-store-post-widget.php:27
+msgid "OS: Recent Blog Posts"
+msgstr "OS: Entradas recientes del blog"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:317
+msgid "Set Image In Background"
+msgstr "Establecer la imagen en el fondo"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:272
+msgid "Offer Image"
+msgstr "Imagen de las ofertas"
+
+#: customizer/functions/customizer-fields.php:1288
+#: inc/class-orchid-store-custom-fields.php:66
+#: widget/widgets/class-orchid-store-advertisement-widget.php:250
+msgid "Right"
+msgstr "Derecha"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:249
+msgid "Center"
+msgstr "Centro"
+
+#: customizer/functions/customizer-fields.php:1287
+#: inc/class-orchid-store-custom-fields.php:67
+#: widget/widgets/class-orchid-store-advertisement-widget.php:248
+msgid "Left"
+msgstr "Izquierda"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:244
+msgid "Content Alignment"
+msgstr "Alineación del contenido"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:211
+msgid "Offer Text"
+msgstr "Texto de las ofertas"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:200
+msgid "Offer Title"
+msgstr "Título de las ofertas"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:187
+msgid "Display Offer Contents"
+msgstr "Mostrar contenidos de ofertas"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:30
+msgid "Displays offer advertisement."
+msgstr "Muestra la publicidad de las ofertas."
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:27
+msgid "OS: Offer Advertisement"
+msgstr "OS: Publicidad de las ofertas"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:537
+msgid "Banner Link Two"
+msgstr "Enlace del banner 2"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:498
+msgid "Banner Image Two"
+msgstr "Imagen del banner 2"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:486
+msgid "Banner Link One"
+msgstr "Enlace del banner 1"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:444
+msgid "Banner Image One"
+msgstr "Imagen del banner 1"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:439
+msgid "Enable Mask Layer"
+msgstr "Activar la capa de máscara"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:417
+msgid "Show Slider Contents"
+msgstr "Mostrar los contenidos del carrusel"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:233
+#: widget/widgets/class-orchid-store-banner-widget.php:394
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: widget/widgets/class-orchid-store-advertisement-widget.php:222
+#: widget/widgets/class-orchid-store-banner-widget.php:383
+msgid "Button Title"
+msgstr "Título del botón"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:350
+msgid "Select Page"
+msgstr "Seleccionar la página"
+
+#. translators: %s: slider item number
+#: widget/widgets/class-orchid-store-banner-widget.php:340
+msgid "Slider Item %s"
+msgstr "Elemento %s del carrusel"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:326
+msgid "Slider Elements"
+msgstr "Elementos del carrusel"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:38
+msgid "Displays main slider"
+msgstr "Muestra el carrusel principal"
+
+#: widget/widgets/class-orchid-store-banner-widget.php:35
+msgid "OS: Banner"
+msgstr "OS: Banner"
+
+#. translators: %s: products count
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:122
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] "%s producto"
+msgstr[1] "%s productos"
+
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:36
+msgid "Displays featured product categories."
+msgstr "Muestra las categorías de los productos destacados."
+
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:33
+msgid "OS: Featured Product Categories"
+msgstr "OS: Categorías de productos destacados"
+
+#: widget/widgets/class-orchid-store-products-widget.php:362
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: widget/widgets/class-orchid-store-products-widget.php:361
+msgid "Slider"
+msgstr "Carrusel"
+
+#: widget/widgets/class-orchid-store-products-widget.php:357
+msgid "Display Layout"
+msgstr "Diseño de la visualización"
+
+#: widget/widgets/class-orchid-store-products-widget.php:304
+msgid "On Sale"
+msgstr "En oferta"
+
+#: widget/widgets/class-orchid-store-products-widget.php:303
+msgid "Featured"
+msgstr "Destacado"
+
+#: widget/widgets/class-orchid-store-products-widget.php:302
+msgid "Rated"
+msgstr "Valorado"
+
+#: customizer/functions/customizer-fields.php:1474
+#: widget/widgets/class-orchid-store-products-filter-widget.php:460
+#: widget/widgets/class-orchid-store-products-widget.php:301
+#: widget/widgets/class-orchid-store-products-widget.php:438
+msgid "None"
+msgstr "Ninguno"
+
+#: widget/widgets/class-orchid-store-products-widget.php:297
+msgid "Products By"
+msgstr "Productos por"
+
+#: widget/widgets/class-orchid-store-products-widget.php:290
+msgid "No of Products"
+msgstr "Número de productos"
+
+#: widget/widgets/class-orchid-store-products-widget.php:285
+msgid "If no category is selected, then latest products are displayed."
+msgstr "Si no se selecciona ninguna categoría, se mostrarán los productos más recientes."
+
+#: widget/widgets/class-orchid-store-products-widget.php:269
+msgid "Select Category"
+msgstr "Seleccionar la categoría"
+
+#: widget/widgets/class-orchid-store-products-widget.php:264
+msgid "Product Category"
+msgstr "Categoría de productos"
+
+#: widget/widgets/class-orchid-store-products-widget.php:38
+msgid "Displays products."
+msgstr "Muestra los productos."
+
+#: widget/widgets/class-orchid-store-products-widget.php:35
+msgid "OS: Products"
+msgstr "OS: Productos"
+
+#: widget/widgets/class-orchid-store-services-widget.php:182
+msgid "Upload image having 1x1 aspect ratio."
+msgstr "Sube una imagen que tenga una relación de aspecto de 1x1."
+
+#: widget/widgets/class-orchid-store-services-widget.php:180
+msgid "Icon Image"
+msgstr "Imagen del ícono"
+
+#: widget/widgets/class-orchid-store-services-widget.php:170
+msgid "Description"
+msgstr "Descripción"
+
+#. translators: %s : number of service
+#: widget/widgets/class-orchid-store-services-widget.php:152
+msgid "Service %s"
+msgstr "Servicio %s"
+
+#: widget/widgets/class-orchid-store-services-widget.php:29
+msgid "Displays services."
+msgstr "Muestra los servicios."
+
+#: widget/widgets/class-orchid-store-services-widget.php:27
+msgid "OS: Services"
+msgstr "OS: Servicios"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:352
+msgid "Number of Products For Each Category"
+msgstr "Número de productos para cada categoría"
+
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:243
+#: widget/widgets/class-orchid-store-products-filter-widget.php:343
+msgid "There are no product categories to select."
+msgstr "No hay categorías de productos para seleccionar."
+
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:183
+#: widget/widgets/class-orchid-store-products-filter-widget.php:272
+msgid "Below are the list of product categories. Check on a category to set is as a filter item."
+msgstr "A continuación está la lista de categorías de productos. Marca una categoría a establecerla como un elemento de filtro."
+
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:180
+#: widget/widgets/class-orchid-store-products-filter-widget.php:269
+msgid "Product Categories"
+msgstr "Categorías de productos"
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:38
+msgid "Displays products by category filter."
+msgstr "Muestra los productos por el filtro de categoría."
+
+#: widget/widgets/class-orchid-store-products-filter-widget.php:35
+msgid "OS: Products By Category Filter"
+msgstr "OS: Productos por filtro de categoría"
+
+#: widget/widgets/class-orchid-store-about-widget.php:436
+msgid "VK Link"
+msgstr "Enlace de VK"
+
+#: widget/widgets/class-orchid-store-about-widget.php:425
+msgid "Vimeo Link"
+msgstr "Enlace de Vimeo"
+
+#: widget/widgets/class-orchid-store-about-widget.php:414
+msgid "YouTube Link"
+msgstr "Enlace de YouTube"
+
+#: widget/widgets/class-orchid-store-about-widget.php:404
+msgid "Pinterest Link"
+msgstr "Enlace de Pinterest"
+
+#: widget/widgets/class-orchid-store-about-widget.php:393
+msgid "Instagram Link"
+msgstr "Enlace de Instagram"
+
+#: widget/widgets/class-orchid-store-about-widget.php:382
+msgid "Twitter Link"
+msgstr "Enlace de Twitter"
+
+#: widget/widgets/class-orchid-store-about-widget.php:371
+msgid "Facebook Link"
+msgstr "Enlace de Facebook"
+
+#: customizer/functions/customizer-fields.php:346
+#: widget/widgets/class-orchid-store-about-widget.php:365
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: widget/widgets/class-orchid-store-about-widget.php:349
+msgid "Opening Time"
+msgstr "Hora de apertura"
+
+#: widget/widgets/class-orchid-store-about-widget.php:338
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: widget/widgets/class-orchid-store-about-widget.php:327
+msgid "Contact Number"
+msgstr "Número de contacto"
+
+#: widget/widgets/class-orchid-store-about-widget.php:316
+msgid "Address"
+msgstr "Dirección"
+
+#: widget/widgets/class-orchid-store-about-widget.php:305
+msgid "Short Description"
+msgstr "Descripción corta"
+
+#: widget/widgets/class-orchid-store-about-widget.php:297
+#: widget/widgets/class-orchid-store-advertisement-widget.php:302
+#: widget/widgets/class-orchid-store-banner-widget.php:475
+#: widget/widgets/class-orchid-store-banner-widget.php:526
+#: widget/widgets/class-orchid-store-services-widget.php:214
+msgid "Upload"
+msgstr "Subir"
+
+#: widget/widgets/class-orchid-store-about-widget.php:266
+msgid "Logo"
+msgstr "Logotipo"
+
+#: widget/widgets/class-orchid-store-about-widget.php:260
+msgid "Store Information"
+msgstr "Información de la tienda"
+
+#: widget/widgets/class-orchid-store-about-widget.php:246
+#: widget/widgets/class-orchid-store-advertisement-widget.php:168
+#: widget/widgets/class-orchid-store-banner-widget.php:312
+#: widget/widgets/class-orchid-store-featured-product-categories-widget.php:168
+#: widget/widgets/class-orchid-store-post-widget.php:216
+#: widget/widgets/class-orchid-store-products-filter-widget.php:256
+#: widget/widgets/class-orchid-store-products-filter-widget.php:462
+#: widget/widgets/class-orchid-store-products-widget.php:257
+#: widget/widgets/class-orchid-store-products-widget.php:440
+#: widget/widgets/class-orchid-store-services-widget.php:132
+#: widget/widgets/class-orchid-store-services-widget.php:159
+msgid "Title"
+msgstr "Título"
+
+#: widget/widgets/class-orchid-store-about-widget.php:30
+msgid "Displays Store About Information"
+msgstr "Muestra la información sobre la tienda."
+
+#: widget/widgets/class-orchid-store-about-widget.php:27
+msgid "OS: About Widget"
+msgstr "OS: Widget “Acerca de”"
+
+#: customizer/functions/customizer-defaults.php:153
+#: inc/woocommerce-hooks.php:1014 woocommerce/loop/sale-flash.php:28
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: widget/widgets/class-orchid-store-about-widget.php:300
+#: widget/widgets/class-orchid-store-advertisement-widget.php:305
+#: widget/widgets/class-orchid-store-banner-widget.php:479
+#: widget/widgets/class-orchid-store-banner-widget.php:530
+#: widget/widgets/class-orchid-store-services-widget.php:217
+msgid "Remove"
+msgstr "Eliminar"
+
+#: woocommerce/product-searchform.php:24
+msgid "Search products&hellip;"
+msgstr "Buscar productos..."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themebeez.com"
+msgstr "https://themebeez.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "themebeez"
+msgstr "themebeez"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themebeez.com/themes/orchid-store/"
+msgstr "https://themebeez.com/themes/orchid-store/"

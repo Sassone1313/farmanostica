@@ -1,0 +1,1300 @@
+2026-01-13T19:56:53+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 91d85b53697727658caf623a48c06528
+            [Date] => 13 Ene, 2026 @ 19:56
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.81863
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 91d85b53697727658caf623a48c06528
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 19:56:53 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T19:56:54+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e2761024c94b42504213819a0564e0a0
+            [Date] => 13 Ene, 2026 @ 19:56
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 0.78399
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => bfSdo0vcp7ddZdQu0YTeFBhCZGyiiC6PmTLPvUANAOU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => e2761024c94b42504213819a0564e0a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 19:56:54 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 298
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T19:59:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 25f84d1ea6f951b0963eddacf73239af
+            [Date] => 13 Ene, 2026 @ 19:59
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 5.31286
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 25f84d1ea6f951b0963eddacf73239af
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 19:59:51 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:01:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 243f98224b4baa02734d2897351177c0
+            [Date] => 13 Ene, 2026 @ 20:01
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.68808
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 243f98224b4baa02734d2897351177c0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:01:56 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:04:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3539ee0162e5e1d56560f8e4fe90b989
+            [Date] => 13 Ene, 2026 @ 20:04
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 5.89386
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 3539ee0162e5e1d56560f8e4fe90b989
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:04:20 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:07:35+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 530b764caa5d904b5a318d7ce5589db1
+            [Date] => 13 Ene, 2026 @ 20:07
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.54111
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 530b764caa5d904b5a318d7ce5589db1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:07:35 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:22:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 8b6db36324dad111d8eb4a1974f389a7
+            [Date] => 13 Ene, 2026 @ 20:22
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.27144
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 8b6db36324dad111d8eb4a1974f389a7
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:22:20 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:23:54+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d95fff18b931f41a5e59c31cdcbabc9d
+            [Date] => 13 Ene, 2026 @ 20:23
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 4.40437
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => d95fff18b931f41a5e59c31cdcbabc9d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:23:54 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:27:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 58fb13e9e51d0eaa4b6335103fcb065f
+            [Date] => 13 Ene, 2026 @ 20:27
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 5.40266
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 58fb13e9e51d0eaa4b6335103fcb065f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:27:20 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:30:15+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 2c9584e6b7bf45faa5d93434ea350ea0
+            [Date] => 13 Ene, 2026 @ 20:30
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.12995
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 2c9584e6b7bf45faa5d93434ea350ea0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:30:14 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:34:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bcadd0b67d82b63e6f7b169153e631ca
+            [Date] => 13 Ene, 2026 @ 20:34
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 5.20572
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => bcadd0b67d82b63e6f7b169153e631ca
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:34:12 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:37:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 59e81ec3b73d18ba4c333abd61e64617
+            [Date] => 13 Ene, 2026 @ 20:37
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 5.19682
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 59e81ec3b73d18ba4c333abd61e64617
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:37:19 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:38:34+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 40dbd05ae5c6d4231d96bc71c272cedf
+            [Date] => 13 Ene, 2026 @ 20:38
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 4.51212
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 40dbd05ae5c6d4231d96bc71c272cedf
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:38:34 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:39:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ececf06826b0fa1212e95e48ea79ead1
+            [Date] => 13 Ene, 2026 @ 20:39
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.07743
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ececf06826b0fa1212e95e48ea79ead1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:39:41 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:41:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f2cd5a42f27457dbcea1f6d354677df7
+            [Date] => 13 Ene, 2026 @ 20:41
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.50682
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => f2cd5a42f27457dbcea1f6d354677df7
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:41:08 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:43:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 33716d7ce42ccbe570d76f0233dd9eed
+            [Date] => 13 Ene, 2026 @ 20:43
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 2.97619
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 33716d7ce42ccbe570d76f0233dd9eed
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:43:11 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:44:32+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 443e44c97926a165fb852171e4dcf339
+            [Date] => 13 Ene, 2026 @ 20:44
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 1.15459
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 443e44c97926a165fb852171e4dcf339
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:44:32 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:46:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fd921c57c5bc948e1c52cfd7130eb884
+            [Date] => 13 Ene, 2026 @ 20:46
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 3.25776
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => fd921c57c5bc948e1c52cfd7130eb884
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:46:15 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:47:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4fe51f0d924bcc70516018d29a8099e8
+            [Date] => 13 Ene, 2026 @ 20:47
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 5.20596
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 4fe51f0d924bcc70516018d29a8099e8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:47:48 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T20:48:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 2d039c1a6cdf3a5acad4576e20664cb5
+            [Date] => 13 Ene, 2026 @ 20:48
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/order
+            [Duration] => 4.3917
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DctTfjJxndEvarYQywUnIG8wZFvN6DRUZq8M3XJYTSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 2d039c1a6cdf3a5acad4576e20664cb5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 20:48:42 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 298
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T21:21:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f39816ec7e3054c92ca46f312e190b46
+            [Date] => 13 Ene, 2026 @ 21:21
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/product
+            [Duration] => 4.4001
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 2jakXIFamgjuxY1vykr+Kr7U9IXwtt2Nj0/qL1mXWXs=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => f39816ec7e3054c92ca46f312e190b46
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 21:21:28 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T21:24:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0f5b583274f02fe2cfb998a20fcb481a
+            [Date] => 13 Ene, 2026 @ 21:24
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/product
+            [Duration] => 1.33682
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => HCi9C0IUwiGIr436R9mmsNi6/zFQNQWo3e8nD/6O+do=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 0f5b583274f02fe2cfb998a20fcb481a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 21:24:19 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T21:28:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bdb7551e9e1610ac290d4fcf6aafc5d0
+            [Date] => 13 Ene, 2026 @ 21:28
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/product
+            [Duration] => 1.76924
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => OsCuhKakU2ayTRoQC8UXcrOkQZx7b4WXgGpq3SZIbiY=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => bdb7551e9e1610ac290d4fcf6aafc5d0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 21:28:21 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T21:31:22+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 969641523bd5fb2242d96d12d716ab08
+            [Date] => 13 Ene, 2026 @ 21:31
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/product
+            [Duration] => 3.87476
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 3UBCvCG1W4OmQgafuGSlVCWdBe6lGpg23cum431A+Ys=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 969641523bd5fb2242d96d12d716ab08
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 21:31:22 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-13T21:33:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 15dfef3fce5097edf783fa2bec8e2f09
+            [Date] => 13 Ene, 2026 @ 21:33
+            [URL] => https://nova.astroselling.com/api/v1/channels/81372/webhooks/product
+            [Duration] => 1.50619
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.2.2 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.farmanostica.cl/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => ZptuWLw6hfj+hX3EZugba3mXixRfu3ZYNOw8uiG/gL4=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 15dfef3fce5097edf783fa2bec8e2f09
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 13 Jan 2026 21:33:43 GMT
+                                    [content-type] => application/json
+                                    [x-powered-by] => PHP/8.0.27
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 300
+                                    [x-ratelimit-remaining] => 299
+                                    [access-control-allow-origin] => *
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

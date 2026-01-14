@@ -1,0 +1,62 @@
+.fieldsAndOptionsTable_main_container {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 50%;
+    min-height: 100%;
+    border-bottom: 1px solid rgba(53, 78, 112, 0.1);
+    box-sizing: border-box;
+    border-radius: 5px;
+    background: #ffffff;
+    position: sticky;
+    top: 50px;
+      height: 720px;
+          overflow-y: auto;
+}
+
+.fieldsAndOptionsTable_header {
+    width: 100%;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    border-bottom: 1px solid rgba(53, 78, 112, 0.1);
+
+}
+
+.FieldsAndOptionsTable_title {
+    width: 50%;
+    cursor: pointer;
+    text-align: center;
+    padding: 0px 20px;
+    margin-bottom: 0px;
+    line-height: 51px;
+    height: 51px;
+    bottom: -1px;
+}
+
+.FieldsAndOptionsTable_title.active {
+    border-bottom: 1px solid #1C01FF;
+        font-weight: 600;
+    // color: #1C01FF
+}
+
+/* Target vertical scrollbar */
+.fieldsAndOptionsTable_main_container::-webkit-scrollbar {
+  width: 4px; /* Reduce the scrollbar width */
+}
+
+/* Scrollbar track (background of the scrollbar) */
+.fieldsAndOptionsTable_main_container::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light gray background */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Scrollbar thumb (the draggable part) */
+.fieldsAndOptionsTable_main_container::-webkit-scrollbar-thumb {
+  background: #888; /* Darker gray for the thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+
+/* On hover (optional, for better UX) */
+.fieldsAndOptionsTable_main_container::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Darker gray when hovered */
+}

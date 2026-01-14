@@ -1,0 +1,133 @@
+.buttonReset {
+  display: inline-block;
+  line-height: 33px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #8b92a5;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  border: 1px solid #8b92a5;
+
+  &:hover {
+    background: #29292A;
+    color: #fff;
+  }
+}
+
+.warp_container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 300;
+  background-color: rgb(255 255 255 / 40%);
+
+}
+
+.wrap {
+  position: fixed;
+  inset: 50% auto auto 50%;
+  border: 1px solid rgb(204, 204, 204);
+  background: rgb(255, 255, 255);
+  overflow: auto;
+  border-radius: 12px;
+  outline: none;
+  padding: 25px 45px;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1000;
+}
+
+.mPopUp {
+  margin-bottom: 1.5em;
+  color: #1e2327;
+}
+
+.warning_msg {
+  color: red;
+  margin-top: 10px;
+}
+
+.mBtn {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  background: #1C01FF;
+  margin-right: 10px;
+}
+
+.buttonYes {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+  background: #dc6f67;
+  text-transform: capitalize;
+}
+
+.buttonYes.loading {
+  padding-right: 40px;
+  position: relative;
+  background-color: #ec6762;
+  /* optional */
+}
+
+.buttonYes.loading::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-left-color: #fff;
+  border-top-color: #fff;
+  animation: spin 0.6s linear infinite, grow 0.3s forwards ease-out;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes grow {
+  to {
+    width: 14px;
+    height: 14px;
+    margin-top: -8px;
+    right: 13px;
+  }
+}
+
+.buttonNo {
+  display: inline-block;
+  line-height: 35px;
+  padding: 0px 20px;
+  border-radius: 3px;
+  color: #1e2327;
+  font-size: 12px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  background: #edeef2;
+  margin-right: 10px;
+}
